@@ -1,0 +1,5 @@
+print(type(12))
+print(type(12.2))
+print(type(True))
+print(type('str'))
+print(type(range(5)))
